@@ -1,6 +1,6 @@
-#include "main.h"
+#include <stdio.h>
 /**
- * main - prinys the sum all multiples of 3 or 5 up to 1024
+ * main - prints the sum all multiples of 3 or 5 up to 1024
  * Return: Always successful
  */
 
